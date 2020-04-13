@@ -1,0 +1,8 @@
+[package]
+name = "macroquad_sample_project"
+version = "0.1.0"
+authors = ["Fedor Logachev <not.fl3@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+macroquad = "0.1"
